@@ -1,4 +1,4 @@
-# CreditLens 鈥� Loan Default Risk Prediction
+# CreditLens Loan Default Risk Prediction
 
 CreditLens is a supervised machine learning project for predicting LendingClub loan defaults. It focuses on leakage-aware feature selection, imbalanced classification, model comparison, and interpretable credit-risk analysis.
 
@@ -51,7 +51,7 @@ Python, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, Google Colab
 
 ## Repository Contents
 
-- [`CreditLens.ipynb`](./CreditLens.ipynb) 鈥� data cleaning, leakage controls, modeling, and evaluation
+- [`CreditLens.ipynb`](./CreditLens.ipynb)  data cleaning, leakage controls, modeling, and evaluation
 
 ## How to Run
 
